@@ -1,5 +1,9 @@
 # <div style="display: flex; align-items: center;"><img src="./img/conguito.gif" width="250" style="    -webkit-transform: scaleX(-1); transform: scaleX(-1);"> Welcome to my repository <img width="30" style="margin: 0 1rem;" src="./img/hi.gif">.</div>
 
+<img src="https://komarev.com/ghpvc/?username=vquilon&style=flat-square&color=blue" alt=""/>
+
+---
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -11,20 +15,9 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=vquilon&style=flat-square&color=blue" alt=""/>
-
----
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=vquilon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ![my Github Stats](https://github-readme-stats.vercel.app/api?username=vquilon&show_icons=true&theme=dark)
-
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vquilon&layout=compact&theme=dark)
-
----
-
-<iframe alloworigin="true" src="https://vquilon.github.io/p5.js/raycast/">
